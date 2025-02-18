@@ -58,7 +58,7 @@
 <div class="container">
     <h1>¡Hablemos por WhatsApp!</h1>
     <p>Haz clic en el botón para ponerte en contacto con nosotros de manera rápida y sencilla.</p>
-    <a href="https://wa.me/549XXXXXXXXX" class="whatsapp-button" target="_blank">Contactar por WhatsApp</a>
+    <a href="https://wa.me/5492235360793 class="whatsapp-button" target="_blank">Contactar por WhatsApp</a>
 </div>
 
 </body>
